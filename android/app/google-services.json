@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198956021320",
+    "project_id": "instax-f4d1f",
+    "storage_bucket": "instax-f4d1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198956021320:android:ae1af622e6b8d725a74a7d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxj40NiRBHksT8a8JSLqzcjaSnUyPUntw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
